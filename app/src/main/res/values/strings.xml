@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CriminalProject</string>
+    <string name="record_title_hint">Enter a title for the record.</string>
+    <string name="record_title_label">Title</string>
+    <string name="record_details_label">Details</string>
+    <string name="record_solved_label">Solved</string>
+    <string name="date_picker_title">Date of record:</string>
+    <string name="time_picker_title">Time of record:</string>
+    <string name="new_record">New Record</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d record</item>
+        <item quantity="other">%1$d records</item>
+    </plurals>
+    <string name="take">Take!</string>
+    <string name="delete_record">Delete</string>
+    <string name="empty_list">There\'s no records. Add new?</string>
+    <string name="record_contact_text">Choose Contact</string>
+    <string name="send_report_text">Send Report</string>
+    <string name="record_report">%1$s! The record was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="record_report_solved">The case is solved</string>
+    <string name="record_report_unsolved">The case is not solved</string>
+    <string name="record_report_no_contact">There is no contact</string>
+    <string name="record_report_contact">The contact is %s</string>
+    <string name="record_report_subject">RecordIntent Record Report</string>
+    <string name="send_report">Send record report via</string>
+</resources>
